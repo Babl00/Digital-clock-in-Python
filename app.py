@@ -2,6 +2,7 @@ from time import strftime
 from tkinter import Label, Tk
 
 # ======= Configuring window =========
+window = Tk()
 window.title("")
 window.geometry("200x80")
 window.configure(bg="green")  # =======Background of the clock=====
