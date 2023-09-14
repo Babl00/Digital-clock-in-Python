@@ -1,3 +1,2 @@
-strftime
-Label
-Tk
+time
+tkinter
